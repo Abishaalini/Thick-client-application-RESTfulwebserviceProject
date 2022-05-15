@@ -28,7 +28,10 @@ class="form-control form-control-sm">
 <br>
 <input id="btnSave" name="btnSave" type="button" value="Save"
 class="btn btn-primary">
-<input type="hidden" id="hidItemIDSave" name="hidItemIDSave" value="">
+<input id="btnUpdate" name="btnUpdate" type="button" value="Update"
+class="btn btn-primary">
+<input id="btnRemove" name="btnRemove" type="button" value="Remove"
+class="btn btn-primary">
 </form>
 
 <div id="alertSuccess" class="alert alert-success"></div>
