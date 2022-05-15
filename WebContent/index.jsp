@@ -29,13 +29,11 @@ class="form-control form-control-sm">
 <input id="btnSave" name="btnSave" type="button" value="Save"
 class="btn btn-primary">
 <input id="btnUpdate" name="btnUpdate" type="button" value="Update"
-class="btn btn-primary">
+class="btn btn-warning">
 <input id="btnRemove" name="btnRemove" type="button" value="Remove"
-class="btn btn-primary">
+class="btn btn-danger">
 </form>
 
-<div id="alertSuccess" class="alert alert-success"></div>
-<div id="alertError" class="alert alert-danger"></div>
 <br>
 <div id="divItemsGrid">
 <%
